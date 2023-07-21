@@ -1,3 +1,5 @@
+# no environnement, ide files
 venv/
 *__pycache__
 *.DS_Store
+.venv
